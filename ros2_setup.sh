@@ -44,5 +44,4 @@ cd ~/ros2_dashing/
 colcon build --symlink-install
 
 # Source the setup script
-. ~/ros2_dashing/install/setup.bash
 echo ". ~/ros2_dashing/install/setup.bash" >> ~/.bashrc
