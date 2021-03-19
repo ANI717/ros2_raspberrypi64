@@ -6,7 +6,7 @@ Install ROS 2 Dashing on Raspberry Pi 64 Bit (RaspiOS arm64)
 * [Animesh Bala Ani](https://animeshani.com/)
 * [Dr. Li Bai](https://engineering.temple.edu/about/faculty-staff/li-bai-lbai)
 
-## Raspberry Pi 64 Bit (RaspiOS arm64)
+## Setup Raspberry Pi 64 Bit (RaspiOS arm64)
 Follow instructions from https://github.com/ANI717/headless_raspberrypi_setup
 
 ## Setup ROS 2 Dashing from Source
