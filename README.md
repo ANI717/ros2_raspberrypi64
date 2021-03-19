@@ -16,4 +16,5 @@ sudo apt install git -y
 cd ~ && git clone https://github.com/ANI717/ros2_raspberrypi64
 cd ~/ros2_raspberrypi64
 chmod +x ros2_setup.sh && ./ros2_setup.sh
+. ~/.bashrc
 ```
