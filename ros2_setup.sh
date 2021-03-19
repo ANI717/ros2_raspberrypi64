@@ -15,7 +15,7 @@ export LANGUAGE=en_GB.UTF-8
 export LC_ALL=en_GB.UTF-8
 
 # Adds the ROS 2 apt repository
-sudo apt install curl gnupg2 lsb-release
+sudo apt install curl gnupg2 lsb-release -y
 curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo apt-key add -
 
 # Adds the repository to sources list
