@@ -1,4 +1,7 @@
-# ROS 2 Dashing on Raspberry Pi 64
+<p align="center">
+  <h1 align="center">ROS 2 Dashing on Raspberry Pi 64</h1>
+</p>
+
 Install ROS 2 Dashing on Raspberry Pi 64 Bit (RaspiOS arm64)
 
 ## Colaborators
