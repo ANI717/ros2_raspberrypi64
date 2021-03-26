@@ -21,3 +21,8 @@ cd ~/ros2_raspberrypi64
 chmod +x ros2_setup.sh && ./ros2_setup.sh
 . ~/.bashrc
 ```
+
+## Source ROS 2
+```
+. ~/ros2_dashing/install/setup.bash
+```
