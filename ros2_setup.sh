@@ -22,6 +22,7 @@ curl -s https://raw.githubusercontent.com/ros/rosdistro/master/ros.asc | sudo ap
 sudo sh -c 'echo "deb [arch=$(dpkg --print-architecture)] http://packages.ros.org/ros2/ubuntu $(lsb_release -cs) main" > /etc/apt/sources.list.d/ros2-latest.list'
 
 echo "export PATH=\"/home/pi/.local/bin:$PATH\"" >> ~/.bashrc
+. ~/.bashrc
 
 # Installs development tools and ROS tools
 sudo apt install -y build-essential cmake git python3-colcon-common-extensions python3-pip python-rosdep python3-vcstool wget
